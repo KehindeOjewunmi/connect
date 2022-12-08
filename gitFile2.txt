@@ -1,1 +1,3 @@
-This is our second file. Devsops is interesting.
+This is our second file.
+Devops is interesting.
+But it takes more dedication.
