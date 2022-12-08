@@ -1,1 +1,2 @@
 This is an amendment
+We want o perform a merge
